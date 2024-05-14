@@ -1,7 +1,3 @@
-#!/usr/bin/env groovy
-
-#!/usr/bin/env groovy
-
 node {
     stage('checkout') {
         checkout scm
