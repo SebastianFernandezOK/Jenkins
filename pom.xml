@@ -405,7 +405,7 @@
                             </platforms>
                         </from>
                         <to>
-                            <image>sebastianfernandezok/jenkinsfinal:latest</image>
+                            <image>sebaok/final-ing.software.aplicada:latest</image>
                             <tags>
                                 <tag>${project.version}</tag>
                                 <tag>latest</tag>
